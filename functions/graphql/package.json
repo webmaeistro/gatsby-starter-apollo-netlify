@@ -7,6 +7,7 @@
     "@mapbox/togeojson": "^0.16.0",
     "apollo-server-lambda": "^2.7.1",
     "graphql": "^14.4.2",
-    "superagent": "^5.1.0"
+    "superagent": "^5.1.0",
+    "xmldom": "^0.1.27"
   }
 }
